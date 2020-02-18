@@ -1,0 +1,29 @@
+body {
+  background-color: #93ddf1;
+  font-family: sans-serif;
+}
+
+p
+{
+  color: red;
+}
+
+h1, h2 {
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.box {
+  width: 60%;
+  margin:  auto;
+  margin-bottom: 20px;
+  padding: 40px;
+  background-color: white;
+
+}
+.textAlign {
+  float: right;
+  width: 50%;
+  margin-top: -400px;
+
+}

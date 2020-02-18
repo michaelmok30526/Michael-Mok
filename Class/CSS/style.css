@@ -1,5 +1,9 @@
+
+body {
+  background-color: rgb(24, 164, 232);
+}
 h1 {
-  color: red:
+  color: red;
   font-family: 'Bebas Neue';
 }
 
@@ -11,8 +15,15 @@ h1 {
   padding: 20px;
   background-color: rgb(217, 217, 217);
   width: 50%;
-  box-shadow:5px 10px 10px 10px rgb(219, 219, 219)
+  box-shadow:5px 10px 10px 10px rgb(219, 219, 219);
+  border-radius: 8px;
 }
+.E36 {
+margin-left: 2px;
+}
+
+
+
 
 .article h1 {
   color: blue;
